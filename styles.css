@@ -1,0 +1,17 @@
+.buttons{
+  padding-top: 13px;
+}
+.home-button{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.contacts-container{
+  padding-left: 40px;
+}
+.email-field{
+  width: 18em;
+}
+.address-field{
+  width: 14em;
+}
